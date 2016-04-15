@@ -30,6 +30,7 @@ public class Quick {
         exch(a, lo, j);
         return j;
     }
+
     private static boolean less(Comparable v, Comparable w)
     { return v.compareTo(w) < 0; }
 
