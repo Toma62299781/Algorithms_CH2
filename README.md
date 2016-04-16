@@ -1,5 +1,5 @@
 # Algorithms_CH2
-This project cotains the code used in the chapter 2 of the book "Algorithms" 4th edition, which is written by Robert Sedgewick. There are several points the users need to know.
+This project cotains the code used in the chapter 2 of the book ["Algorithms"](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_2?s=tradein-aps&srs=9187220011&ie=UTF8&qid=1460765753&sr=8-2&keywords=algorithms) 4th edition, which is written by Robert Sedgewick. There are several points the users need to know.
 ***
 * 1 All the codes are cotained in the folder src.
 * 2 You need to add the "algs4.jar" to the library of the IDE if you want to run the code in your own computer.
