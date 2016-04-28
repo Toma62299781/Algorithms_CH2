@@ -1,11 +1,11 @@
 # Algorithms_CH2
 This project cotains the code used in the chapter 2 of the book ["Algorithms"](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_2?s=tradein-aps&srs=9187220011&ie=UTF8&qid=1460765753&sr=8-2&keywords=algorithms) 4th edition, which is written by Robert Sedgewick. There are several points the users need to know.
 ***
-* 1 All the codes are cotained in the folder src.
-* 2 You need to add the "algs4.jar" to the library of the IDE if you want to run the code in your own computer.
-* 3 I suggest you to follow the instructions on this website to install the offical tools for this book.[Site](http://algs4.cs.princeton.edu/home/). This will sufficiently reduce the problems when you running these codes on your own machine.
-* 4 If you can't use the *assert* when you running the codes, I suggest you to check the language level of your IDE. Because the Java SDK 1.3 doesn't support *assert*.
-* 5 All the codes are compiled and tested in IntelliJ IDEA 2016.1.
+* 1. All the codes are cotained in the folder src.
+* 2. You need to add the "algs4.jar" to the library of the IDE if you want to run the code in your own computer.
+* 3. I suggest you to follow the instructions on this website to install the offical tools for this book.[Site](http://algs4.cs.princeton.edu/home/). This will sufficiently reduce the problems when you running these codes on your own machine.
+* 4. If you can't use the *assert* when you running the codes, I suggest you to check the language level of your IDE. Because the Java SDK 1.3 doesn't support *assert*.
+* 5. All the codes are compiled and tested in IntelliJ IDEA 2016.1.
 
 # License
 The BSD-3-Clause
